@@ -1,0 +1,15 @@
+E:\C#\ДЗ2\Задача013\obj\Debug\net6.0\Задача013.csproj.AssemblyReference.cache
+E:\C#\ДЗ2\Задача013\obj\Debug\net6.0\Задача013.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\ДЗ2\Задача013\obj\Debug\net6.0\Задача013.AssemblyInfoInputs.cache
+E:\C#\ДЗ2\Задача013\obj\Debug\net6.0\Задача013.AssemblyInfo.cs
+E:\C#\ДЗ2\Задача013\obj\Debug\net6.0\Задача013.csproj.CoreCompileInputs.cache
+E:\C#\ДЗ2\Задача013\bin\Debug\net6.0\Задача013.exe
+E:\C#\ДЗ2\Задача013\bin\Debug\net6.0\Задача013.deps.json
+E:\C#\ДЗ2\Задача013\bin\Debug\net6.0\Задача013.runtimeconfig.json
+E:\C#\ДЗ2\Задача013\bin\Debug\net6.0\Задача013.dll
+E:\C#\ДЗ2\Задача013\bin\Debug\net6.0\Задача013.pdb
+E:\C#\ДЗ2\Задача013\obj\Debug\net6.0\Задача013.dll
+E:\C#\ДЗ2\Задача013\obj\Debug\net6.0\refint\Задача013.dll
+E:\C#\ДЗ2\Задача013\obj\Debug\net6.0\Задача013.pdb
+E:\C#\ДЗ2\Задача013\obj\Debug\net6.0\Задача013.genruntimeconfig.cache
+E:\C#\ДЗ2\Задача013\obj\Debug\net6.0\ref\Задача013.dll
